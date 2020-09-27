@@ -1,0 +1,2 @@
+# BinaryCalc
+A binary calculator
